@@ -8,6 +8,7 @@ A project created in order to improve my personal skills on Event-Driven-Archite
 - To increase my experience with logging and metrics tools along with state of the art visualisation with Grafana
 - To improve my workflow with continuous documentating and research. 
 - To increase my knowledge of benchmarking and testing tools with synthetic traffic data platforms. 
+- To improve my practical understanding of schema registries.
 
 # Functionality
 
