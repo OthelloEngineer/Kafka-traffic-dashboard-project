@@ -244,7 +244,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="P2h2nq67WLhF7IXcXq87-3" value="Failed Registration Handler" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="1060" y="140" width="180" height="90" as="geometry"/>
+                    <mxGeometry x="1060" y="95" width="180" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="P2h2nq67WLhF7IXcXq87-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="P2h2nq67WLhF7IXcXq87-3" vertex="1">
                     <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
